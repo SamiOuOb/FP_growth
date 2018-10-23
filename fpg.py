@@ -86,9 +86,8 @@ def updateHeader(nodeToTest, targetNode):
 def createInitSet(dataSet):
     retDict = {}
     for trans in dataSet:
-        retDict[frozenset(trans)] = 1
+        retDict[frozenset(trans)] = retDict.get(frozenset(trans), 0)+1
     return retDict
-#=========================================================
 
 def findPrefixPath(basePat,treeNode):
     condPats = {}

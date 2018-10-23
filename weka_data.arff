@@ -1,0 +1,97 @@
+@relation 'TestID'
+@attribute 0 {F, T}
+@attribute 1 {F, T}
+@attribute 2 {F, T}
+@attribute 3 {F, T}
+@attribute 4 {F, T}
+@attribute 5 {F, T}
+@attribute 6 {F, T}
+@attribute 7 {F, T}
+@attribute 8 {F, T}
+@attribute 9 {F, T}
+@data
+{0 T, 6 T, 7 T, 8 T, 9 T}
+{4 T, 5 T, 6 T, 8 T}
+{0 T, 7 T}
+{4 T, 6 T, 7 T, 8 T}
+{0 T, 5 T, 7 T, 8 T, 9 T}
+{0 T, 1 T, 3 T, 4 T, 5 T, 7 T, 8 T, 9 T}
+{2 T, 3 T, 5 T, 6 T, 7 T, 9 T}
+{0 T, 3 T, 4 T, 5 T, 6 T, 8 T}
+{9 T}
+{0 T, 5 T, 6 T, 8 T, 9 T}
+{0 T, 3 T, 7 T, 8 T, 9 T}
+{0 T, 3 T, 6 T, 8 T, 9 T}
+{0 T, 3 T, 4 T, 5 T, 6 T, 8 T, 9 T}
+{3 T, 8 T, 9 T}
+{0 T, 3 T, 8 T, 9 T}
+{0 T, 3 T, 5 T, 7 T, 8 T}
+{3 T, 5 T, 7 T, 8 T, 9 T}
+{0 T, 5 T, 7 T, 8 T}
+{0 T, 3 T, 5 T, 6 T, 7 T}
+{0 T, 6 T}
+{0 T, 9 T}
+{4 T, 6 T, 8 T, 9 T}
+{0 T, 1 T, 3 T, 5 T, 8 T, 9 T}
+{0 T, 3 T, 6 T, 8 T, 9 T}
+{8 T, 9 T}
+{0 T, 3 T, 5 T, 6 T, 7 T, 8 T, 9 T}
+{3 T, 5 T, 6 T, 8 T, 9 T}
+{3 T, 4 T, 7 T, 9 T}
+{7 T, 8 T}
+{0 T, 8 T, 9 T}
+{7 T, 8 T}
+{0 T, 4 T, 5 T, 7 T, 8 T}
+{6 T, 8 T, 9 T}
+{0 T, 3 T, 7 T, 8 T, 9 T}
+{3 T, 4 T, 7 T}
+{0 T, 3 T, 5 T, 7 T, 8 T, 9 T}
+{0 T, 3 T, 4 T, 9 T}
+{0 T, 3 T, 4 T, 5 T, 7 T, 8 T, 9 T}
+{0 T, 3 T, 5 T, 6 T, 7 T, 8 T, 9 T}
+{0 T, 3 T, 4 T, 6 T, 7 T, 8 T, 9 T}
+{3 T, 9 T}
+{0 T, 3 T, 5 T, 6 T, 7 T, 8 T, 9 T}
+{3 T, 4 T, 5 T, 8 T}
+{3 T, 4 T, 7 T, 8 T, 9 T}
+{3 T, 8 T, 9 T}
+{5 T, 8 T}
+{4 T, 7 T, 8 T, 9 T}
+{0 T, 8 T, 9 T}
+{3 T, 6 T, 8 T, 9 T}
+{3 T, 7 T, 8 T, 9 T}
+{3 T, 5 T, 8 T}
+{0 T, 3 T, 4 T, 6 T, 7 T, 8 T}
+{0 T, 4 T, 5 T, 8 T, 9 T}
+{3 T, 4 T, 7 T, 8 T, 9 T}
+{7 T}
+{3 T, 5 T, 8 T}
+{3 T, 4 T, 9 T}
+{0 T, 1 T, 5 T, 6 T}
+{4 T, 5 T, 6 T, 8 T, 9 T}
+{0 T}
+{0 T, 3 T, 4 T, 6 T, 7 T, 8 T, 9 T}
+{3 T, 7 T, 8 T, 9 T}
+{0 T, 3 T, 5 T, 7 T, 8 T, 9 T}
+{0 T, 3 T, 4 T, 6 T, 8 T, 9 T}
+{0 T, 3 T, 4 T, 5 T, 7 T, 8 T, 9 T}
+{7 T, 9 T}
+{7 T, 8 T}
+{0 T, 3 T, 4 T, 5 T, 8 T, 9 T}
+{0 T, 3 T, 8 T}
+{7 T, 8 T, 9 T}
+{0 T, 3 T, 4 T, 6 T, 7 T, 8 T, 9 T}
+{0 T, 3 T, 8 T, 9 T}
+{1 T, 3 T, 8 T}
+{3 T, 6 T, 8 T, 9 T}
+{0 T, 8 T, 9 T}
+{1 T, 3 T, 4 T, 5 T, 8 T}
+{0 T, 3 T, 6 T, 7 T, 8 T, 9 T}
+{3 T, 5 T, 8 T, 9 T}
+{0 T, 3 T, 5 T, 6 T, 8 T, 9 T}
+{0 T, 3 T, 4 T, 5 T, 8 T, 9 T}
+{0 T, 3 T, 4 T, 6 T, 8 T, 9 T}
+{3 T, 5 T, 6 T, 7 T, 8 T, 9 T}
+{3 T, 5 T, 6 T, 8 T}
+{0 T, 3 T, 8 T, 9 T}
+{3 T, 8 T}
